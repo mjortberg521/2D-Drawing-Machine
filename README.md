@@ -4,7 +4,6 @@ This repository contains the Arduino and Java programs required to run a 2-axis 
 By Matthew Jortberg and William Okuno
 
 STEM Learning Community
-
 Glenbrook South High School
 
 Glenview, IL
